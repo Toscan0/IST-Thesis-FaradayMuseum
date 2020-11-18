@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: f832cb41fbcf843789e1b6857100fe31
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aros
+    100002: base_cilindro
+    100004: base_madeira
+    100006: base_madeira2
+    100008: base_metal
+    100010: Cilindro_pequeno
+    100012: cilindros
+    100014: Empty
+    100016: fio
+    100018: magnet_left
+    100020: magnet_right
+    100022: magnets
+    100024: parafuso_cima
+    100026: parafuso_lat
+    100028: parafusos
+    100030: parafusos_centro
+    100032: //RootNode
+    100034: roda
+    100036: Rotating
+    100038: RotatingArm
+    100040: suporte_madeira
+    100042: vara
+    100044: vara_cima
+    100046: varas
+    400000: aros
+    400002: base_cilindro
+    400004: base_madeira
+    400006: base_madeira2
+    400008: base_metal
+    400010: Cilindro_pequeno
+    400012: cilindros
+    400014: Empty
+    400016: fio
+    400018: magnet_left
+    400020: magnet_right
+    400022: magnets
+    400024: parafuso_cima
+    400026: parafuso_lat
+    400028: parafusos
+    400030: parafusos_centro
+    400032: //RootNode
+    400034: roda
+    400036: Rotating
+    400038: RotatingArm
+    400040: suporte_madeira
+    400042: vara
+    400044: vara_cima
+    400046: varas
+    2100000: Material
+    2100002: aros
+    2100004: cobre.001
+    2100006: aros.001
+    2100008: preto2.003
+    2100010: metal1.003
+    2100012: Material.002
+    2100014: metal
+    2100016: metal1
+    2100018: metal1.002
+    2100020: madeira
+    2100022: metal1.005
+    2100024: preto2.002
+    2100026: madeira3
+    2100028: madeira2
+    2100030: metal1.001
+    2100032: preto
+    2100034: cilindro1
+    2300000: aros
+    2300002: base_cilindro
+    2300004: base_madeira
+    2300006: base_madeira2
+    2300008: base_metal
+    2300010: Cilindro_pequeno
+    2300012: cilindros
+    2300014: fio
+    2300016: magnet_left
+    2300018: magnet_right
+    2300020: parafuso_cima
+    2300022: parafuso_lat
+    2300024: parafusos
+    2300026: parafusos_centro
+    2300028: roda
+    2300030: suporte_madeira
+    2300032: vara
+    2300034: vara_cima
+    2300036: varas
+    3300000: aros
+    3300002: base_cilindro
+    3300004: base_madeira
+    3300006: base_madeira2
+    3300008: base_metal
+    3300010: Cilindro_pequeno
+    3300012: cilindros
+    3300014: fio
+    3300016: magnet_left
+    3300018: magnet_right
+    3300020: parafuso_cima
+    3300022: parafuso_lat
+    3300024: parafusos
+    3300026: parafusos_centro
+    3300028: roda
+    3300030: suporte_madeira
+    3300032: vara
+    3300034: vara_cima
+    3300036: varas
+    4300000: Cilindro_pequeno
+    4300002: roda
+    4300004: fio
+    4300006: aros
+    4300008: vara
+    4300010: vara_cima
+    4300012: parafuso_cima
+    4300014: base_metal
+    4300016: magnet_left
+    4300018: magnet_right
+    4300020: parafuso_lat
+    4300022: base_madeira2
+    4300024: varas
+    4300026: parafusos
+    4300028: base_madeira
+    4300030: suporte_madeira
+    4300032: parafusos_centro
+    4300034: base_cilindro
+    4300036: cilindros
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 07f1647993ccbea4498c138f74d604be
+timeCreated: 1523023841
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bobineDown
+    100002: bobineUp
+    100004: bobineUp2
+    100006: boxDown
+    100008: boxUP
+    100010: doorDown
+    100012: doorUP
+    100014: firstSquare
+    100016: fourthSquare
+    100018: Lamp
+    100020: //RootNode
+    100022: magnet
+    100024: Middle
+    100026: secondSquare
+    100028: thirdSquare
+    100030: vibrateBot
+    100032: vibrateMid
+    400000: bobineDown
+    400002: bobineUp
+    400004: bobineUp2
+    400006: boxDown
+    400008: boxUP
+    400010: doorDown
+    400012: doorUP
+    400014: firstSquare
+    400016: fourthSquare
+    400018: Lamp
+    400020: //RootNode
+    400022: magnet
+    400024: Middle
+    400026: secondSquare
+    400028: thirdSquare
+    400030: vibrateBot
+    400032: vibrateMid
+    2100000: Material
+    2300000: bobineDown
+    2300002: bobineUp
+    2300004: bobineUp2
+    2300006: boxDown
+    2300008: boxUP
+    2300010: doorDown
+    2300012: doorUP
+    2300014: firstSquare
+    2300016: fourthSquare
+    2300018: magnet
+    2300020: Middle
+    2300022: secondSquare
+    2300024: thirdSquare
+    2300026: vibrateBot
+    2300028: vibrateMid
+    3300000: bobineDown
+    3300002: bobineUp
+    3300004: bobineUp2
+    3300006: boxDown
+    3300008: boxUP
+    3300010: doorDown
+    3300012: doorUP
+    3300014: firstSquare
+    3300016: fourthSquare
+    3300018: magnet
+    3300020: Middle
+    3300022: secondSquare
+    3300024: thirdSquare
+    3300026: vibrateBot
+    3300028: vibrateMid
+    4300000: bobineUp2
+    4300002: magnet
+    4300004: thirdSquare
+    4300006: fourthSquare
+    4300008: secondSquare
+    4300010: firstSquare
+    4300012: bobineDown
+    4300014: bobineUp
+    4300016: boxDown
+    4300018: doorDown
+    4300020: doorUP
+    4300022: vibrateBot
+    4300024: vibrateMid
+    4300026: Middle
+    4300028: boxUP
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
