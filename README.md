@@ -14,6 +14,8 @@ The idea of this project, is to give life to objects that can't be intractable, 
 <pre>
 	
 IST-Thesis-Faraday-Museum
+├─ Project
+│	└─ Contains the work developed in the context of this thesis
 ├─ State of the Art
 │	└─ Contains the work performed in the thesis project class
 └─ Targets
