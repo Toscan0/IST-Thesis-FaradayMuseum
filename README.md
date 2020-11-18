@@ -11,6 +11,8 @@ It allows to rotate the object and manipulate his values. Automatically saves th
 <pre>
 
 IST-Thesis-Faraday-Museum
+├─ Artiste Work
+│	└─ Contains the work done by Marta Mendes, in the 3D modulation of the Cathode Ray
 ├─ Project
 │	└─ Contains the work developed in the context of this thesis
 └─ State of the Art
