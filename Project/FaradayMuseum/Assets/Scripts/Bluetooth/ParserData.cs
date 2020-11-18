@@ -59,12 +59,10 @@ public class ParserData : MonoBehaviour
             }
             else if(artifactID == "CR")
             {
-                //Debug.Log("************************");
                 for (int i = 0; i < splited.Length; i++)
                 {
                     if(splited[i] == "I")
                     {
-                        //Debug.Log("IIIIIIIIIIIIIIIIIIIIIIII");
                         intensityUI.SetIntensity(float.Parse(splited[i + 1]));
                     }
                     else if (splited[i] == "T")

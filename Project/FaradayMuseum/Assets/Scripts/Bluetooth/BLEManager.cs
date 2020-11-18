@@ -40,9 +40,6 @@ public class BLEManager : MonoBehaviour
     private ParserData parserData;
     private BluetoothHelper bluetoothHelper;
     
-
-    public Text UITEXT;
-
     private void Awake()
     {
         parserData = gameObject.GetComponent<ParserData>();
@@ -57,7 +54,6 @@ public class BLEManager : MonoBehaviour
 
         if (devices.Count == 0)
         {
-            //Debug.Log("11111111111111111111111111");
             UpdateBluetoothIcons(true, false, false);
             BLEConnected(false);
 
@@ -74,8 +70,6 @@ public class BLEManager : MonoBehaviour
         }
         catch (Exception ex)
         {
-            //Debug.Log("222222222222222222222222222222222");
-
             UpdateBluetoothIcons(false, false, true);
             BLEConnected(false);
 
@@ -105,13 +99,10 @@ public class BLEManager : MonoBehaviour
     private void OnDataReceived(BluetoothHelper helper)
     {
         string data = helper.Read();
-        Debug.Log("TEST " + data);
 
         if (data != null && data != "")
         {
             parserData.Parser(data);
-
-            UITEXT.text = data;
         }
     }
     #endregion
@@ -181,8 +172,6 @@ public class BLEManager : MonoBehaviour
             }
             catch (Exception ex)
             {
-                //Debug.Log("3333333333333333333333333333333333");
-
                 UpdateBluetoothIcons(false, false, true);
                 BLEConnected(false);
 
@@ -227,7 +216,6 @@ public class BLEManager : MonoBehaviour
     #region BLE_API
     public void ConnectedByUser()
     {
-        //Debug.Log("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
         DefineBLEDevice();
         TryToConnect();
 
@@ -237,7 +225,6 @@ public class BLEManager : MonoBehaviour
 
     public void DisconnectByUser()
     {
-        //Debug.Log("======================================================");
         UpdateBluetoothIcons(false, false, true);
         BLEConnected(false);
 
