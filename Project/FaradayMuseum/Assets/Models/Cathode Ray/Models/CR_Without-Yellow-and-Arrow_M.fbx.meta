@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: a5dc782411b966841bcb58c93684df1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aros
+    100002: cabo
+    100004: caixa
+    100006: //RootNode
+    100008: Cylinder
+    100010: "din\xE2mico"
+    100012: "est\xE1tico"
+    100014: parafusos
+    100016: placa_extra
+    100018: suporte_madeira1
+    100020: vidro.001
+    100022: vidro_dentro
+    400000: aros
+    400002: cabo
+    400004: caixa
+    400006: //RootNode
+    400008: Cylinder
+    400010: "din\xE2mico"
+    400012: "est\xE1tico"
+    400014: parafusos
+    400016: placa_extra
+    400018: suporte_madeira1
+    400020: vidro.001
+    400022: vidro_dentro
+    2100000: metal_geral
+    2100002: metal_normals
+    2100004: vidro
+    2100006: vidrodentro
+    2100008: espelho
+    2100010: plastico_borracha
+    2100012: madeira
+    2100014: extra_1
+    2300000: aros
+    2300002: cabo
+    2300004: caixa
+    2300006: Cylinder
+    2300008: "din\xE2mico"
+    2300010: "est\xE1tico"
+    2300012: parafusos
+    2300014: placa_extra
+    2300016: suporte_madeira1
+    2300018: vidro.001
+    2300020: vidro_dentro
+    3300000: aros
+    3300002: cabo
+    3300004: caixa
+    3300006: Cylinder
+    3300008: "din\xE2mico"
+    3300010: "est\xE1tico"
+    3300012: parafusos
+    3300014: placa_extra
+    3300016: suporte_madeira1
+    3300018: vidro.001
+    3300020: vidro_dentro
+    4300000: "din\xE2mico"
+    4300002: vidro.001
+    4300004: vidro_dentro
+    4300006: Cylinder
+    4300008: cabo
+    4300010: "est\xE1tico"
+    4300012: aros
+    4300014: caixa
+    4300016: suporte_madeira1
+    4300018: parafusos
+    4300020: placa_extra
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: espelho
+    second: {fileID: 2100000, guid: 76362254f22398740904066c08fde17d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extra_1
+    second: {fileID: 2100000, guid: c6cee209d20b35f4fa0ca96c326abb8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madeira
+    second: {fileID: 2100000, guid: de73466b229742b4db8bd116a96434a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_geral
+    second: {fileID: 2100000, guid: 09bc0321e168175429e3141f8c477bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_normals
+    second: {fileID: 2100000, guid: 1c19e4de72971754e872f82d805f52dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plastico_borracha
+    second: {fileID: 2100000, guid: 148cbd43a7e6f8343bfe115cd673c24c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidro
+    second: {fileID: 2100000, guid: e8384d741c415d54296deffa7d8bdbeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrodentro
+    second: {fileID: 2100000, guid: 6fdd50c23176e2f4681ac056511a3b41, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

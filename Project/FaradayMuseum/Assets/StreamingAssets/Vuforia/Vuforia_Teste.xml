@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="stone_texture_big_0116_03_texturepalace2" size="1.000000 0.666357" />
+    <ImageTarget name="Astronaut_scaled_gray" size="1.000000 1.727273" />
+    <ImageTarget name="Astronaut_scaled" size="1.000000 1.727273" />
+    <ImageTarget name="heston_marker" size="1.000000 1.000000" />
+    <ImageTarget name="GroundTexture" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
