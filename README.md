@@ -1,17 +1,12 @@
 # IST-Thesis-FaradayMuseum
 
-## Thesis
+## WebGL Branch
 
-Title: Extended Play at Faraday Museum
+It contains a WebGL version of the work done on the Cathode Ray artifact, which consists of an educational game about  it. This game can be played [here](http://web.tecnico.ulisboa.pt/~ist181633/FaradayMuseum/CathodeRay/).
+This work can serve as the basis for an online version of the Faraday Museum or in Virtual Reality.
+It allows to rotate the object and manipulate his values. Automatically saves the user interactions in a web server, for research reasons.
 
-Theme: Object animation using Augmented Reality for Faraday Museum.
-
-Description: This is a project for [Faraday Museum](https://tecnico.ulisboa.pt/pt/tag/museu-faraday/) on of the Museums of Instituto Superior Técnico.
-The idea of this project, is to give life to objects that can't be intractable, to improve the visiting experience of the museum and to create an interactive learning experience. This project follows a Mobile Augmeted Reality approach with User Centered Desing, and continuos the work done by [João and Luís et al.](https://github.com/luismnunes93/Faraday-Museum). It also has the collaboration of the Faculty of Fine Arts. 
-
-It was developed in Unity3D with C#, the modulations were done in Blender and the icons with Photshop
-
-## Repository  Structure
+## Repository Structure
 
 <pre>
 
