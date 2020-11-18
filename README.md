@@ -12,12 +12,12 @@ The idea of this project, is to give life to objects that can't be intractable, 
 ## Repository  Structure
 
 <pre>
-	
+
 IST-Thesis-Faraday-Museum
-├─ State of the Art
-│	└─ Contains the work performed in the thesis project class
-└─ Project
-	└─ Contains the work developed in the context of this thesis
+├─ Project
+│	└─ Contains the work developed in the context of this thesis
+└─ State of the Art
+	└─ Contains the work performed in the thesis project class
 
 </pre>
 
