@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="CR_Without-Yellow-and-Arrow_L" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="CR_Without-Yellow-and-Arrow_Ls_assembly" assemblyId="7f8c12394d6341baba4b717164b55982">
+<Part name="CR_Without-Yellow-and-Arrow_L" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Landscape" translation="0.5 1.7 7" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Portrait" translation="0.5 1.5 9.6" rotation="AD: 1 0 0 180" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
