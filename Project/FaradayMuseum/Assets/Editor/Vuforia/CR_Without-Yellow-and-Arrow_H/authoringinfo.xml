@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.4.6">
+<ModelTarget name="CR_Without-Yellow-and-Arrow_H" targetId="4f869f47fdec4653aaece79d16d41dd7" version="11.1" toolVersion="9.4.6" bbox="-2.300474 -0.100000 -1.250000 3.222004 3.635155 1.250000" previewImage="4f869f47fdec4653aaece79d16d41dd7_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="CR_Without-Yellow-and-Arrow_Hs_assembly" assemblyId="6dc02966fadd4267b4941e65995d0e35">
+<Part name="CR_Without-Yellow-and-Arrow_H" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="Portrait" translation="0.5 1.5 9.6" rotation="AD: 1 0 0 180" image="CR_Without-Yellow-and-Arrow_H_Portrait.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="Landscape" translation="0.5 1.7 7" rotation="AD: 1 0 0 180" image="CR_Without-Yellow-and-Arrow_H_Landscape.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

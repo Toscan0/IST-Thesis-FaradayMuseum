@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ItemDatabase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Objects>
+    <MuseumObject>
+      <objectName>Telephone</objectName>
+      <earnedSticker>false</earnedSticker>
+      <objectInfoText1>Antigamente, quando se queria telefonar a alguem, era necessário rodar uma manivela de maneira a produzir energia suficiente para gerar um sinal de chamada na central com o operador, de maneira a ser possivel entrar em contacto com outro Utilizador (Recetor).</objectInfoText1>
+      <discoveredFirstInfo>false</discoveredFirstInfo>
+      <objectInfoText2>A bateria é a responsável por fornecer energia ao microfone situado dentro da caixa com a placa preta. Agora que já tens a bateria carregada, tenta ligar ao telefone</objectInfoText2>
+      <discoveredSecondInfo>false</discoveredSecondInfo>
+      <objectInfoText3>Esta placa de madeira é o Microfone, que é um transdutor acústico, ou seja, um conversor das vibrações mecânicas associadas à voz do Utilizador(Emissor) em variações de resistência. A corrente ao variar nos Auscultadores atua um transdutor Eletroacústico, transformando-a em variações de pressão acústica(som) que é recebido pelo Utilizador(Recetor).</objectInfoText3>
+      <discoveredThirdInfo>false</discoveredThirdInfo>
+    </MuseumObject>
+    <MuseumObject>
+      <objectName>FreqMachine</objectName>
+      <earnedSticker>false</earnedSticker>
+      <objectInfoText1>Info1</objectInfoText1>
+      <discoveredFirstInfo>false</discoveredFirstInfo>
+      <objectInfoText2>Info2</objectInfoText2>
+      <discoveredSecondInfo>false</discoveredSecondInfo>
+      <objectInfoText3>Info3</objectInfoText3>
+      <discoveredThirdInfo>false</discoveredThirdInfo>
+    </MuseumObject>
+  </Objects>
+</ItemDatabase>

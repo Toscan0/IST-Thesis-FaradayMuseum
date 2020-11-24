@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Objects>
+    <MuseumObject>
+      <objectName>Telephone</objectName>
+      <earnedSticker>false</earnedSticker>
+      <objectInfoText1>Antigamente, quando se queria telefonar a alguem, era necessário rodar a manivela ao lado das bobinas vermelhas, de maneira a produzir energia suficiente para enviar um impulso eletrico à central telefónica para podermos dizer a um/uma resposavel, o numero de telefone para o qual queriamos ligar, é por isso que este telefone não tem nenhum marcador de numeros.</objectInfoText1>
+      <discoveredFirstInfo>true</discoveredFirstInfo>
+      <objectInfoText2>A bateria tem uma potência de 5 volts, e sem ela não é possivel, ouvir pelos auscutadores, pois esta bateria é a responsavel por fornecer energia ao microfone situado dentro da caixa com a placa preta. </objectInfoText2>
+      <discoveredSecondInfo>false</discoveredSecondInfo>
+      <objectInfoText3>A caixa com tampa preta representa o microfone do telefone, sendo que a placa preta vibra de acordo com a fala da pessoa, e dentro da caixa contem um mecanismo que converte essas vibrações em eletricidade e envia pela corrente eletrica essa informção OU converte a informação vinda de eletricidade e converte em som para se ouvir nos auscutadores.</objectInfoText3>
+      <discoveredThirdInfo>false</discoveredThirdInfo>
+    </MuseumObject>
+    <MuseumObject>
+      <objectName>FreqMachine</objectName>
+      <earnedSticker>false</earnedSticker>
+      <objectInfoText1>Info1</objectInfoText1>
+      <discoveredFirstInfo>false</discoveredFirstInfo>
+      <objectInfoText2>Info2</objectInfoText2>
+      <discoveredSecondInfo>false</discoveredSecondInfo>
+      <objectInfoText3>Info3</objectInfoText3>
+      <discoveredThirdInfo>false</discoveredThirdInfo>
+    </MuseumObject>
+  </Objects>
+</ItemDatabase>
