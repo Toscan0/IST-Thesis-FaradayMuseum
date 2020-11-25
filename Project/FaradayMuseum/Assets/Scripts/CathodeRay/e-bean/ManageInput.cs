@@ -18,60 +18,52 @@ public class ManageInput : PhysicsConsts
     private float tension; // tension of the eletrical current in the cathode ray
 
     private CalculateShape calculateShape;
-    
-    #endregion
-
-    #region PUBLIC_FUNCTIONS
-
-    #region GETS&&SETS
-
-    public float Intensity
-    {
-        get { return intensity; }
-
-        set
-        {
-            intensity = value;
-
-            calculateShape.SetB(intensity);
-            OnIntesityChanged?.Invoke(intensity);
-        }
-    }
-
-    public float Tension
-    {
-        get { return tension; }
-        set
-        {
-            tension = value;
-
-            calculateShape.SetV0(tension);
-
-            OnTensionChanged?.Invoke();
-        }
-    }
-
-    public float Rotation
-    {
-        get { return rotation; }
-        set
-        {
-            rotation = value;
-
-            Ampule.localEulerAngles = new Vector3(rotation, 0, 0);
-
-            calculateShape.SetAlpha(rotation);
-        }
-    }
 
     #endregion
+
 
     void Awake()
     {
         calculateShape = gameObject.GetComponent<CalculateShape>();
     }
 
-    #endregion
+    private void OnEnable()
+    {
+        IntensityUI.OnIntensityChanged += UpdateIntensity;
+        TensionUI.OnTensionChanged += UpdateTension;
+        RotationUI.OnRotationChanged += UpdateRotation;
+    }
 
-   
+    private void UpdateIntensity(float newValue)
+    {
+        intensity = newValue;
+
+        calculateShape.SetB(intensity);
+        OnIntesityChanged?.Invoke(intensity);
+    }
+
+    private void UpdateTension(float newValue)
+    {
+        tension = newValue;
+
+        calculateShape.SetV0(tension);
+
+        OnTensionChanged?.Invoke();
+    }
+
+    private void UpdateRotation(float newValue)
+    {
+        rotation = newValue;
+
+        Ampule.localEulerAngles = new Vector3(rotation, 0, 0);
+
+        calculateShape.SetAlpha(rotation);
+    }
+
+    private void OnDisable()
+    {
+        IntensityUI.OnIntensityChanged -= UpdateIntensity;
+        TensionUI.OnTensionChanged -= UpdateTension;
+        RotationUI.OnRotationChanged -= UpdateRotation;
+    }
 }

@@ -7,9 +7,8 @@ public class ExplanationDisplay : PopUps
 {
     public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
 
-
-    public bool SwipeLeftToCenter { get; set; } = false;
-
+    [SerializeField]
+    private TargetManager targetManager;
     [SerializeField]
     private SettingsManager settingsManager;
     [SerializeField]
@@ -64,7 +63,7 @@ public class ExplanationDisplay : PopUps
         animator.SetTrigger("FadeIn");
 
         string expertiseLevel = settingsManager.GetExpertiseLevel();
-        string targetID = "CR";
+        string targetID = targetManager.TargetID;
 
         for (int i = 0; i < explanation.Length; i++)
         {

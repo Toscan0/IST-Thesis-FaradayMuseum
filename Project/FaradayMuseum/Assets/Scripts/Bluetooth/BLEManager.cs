@@ -195,7 +195,10 @@ public class BLEManager : MonoBehaviour
 
     private void DisconectBLE()
     {
-        BLEDisconnectFromEvents();
+        if (BLEconnected)
+        {
+            BLEDisconnectFromEvents();
+        }
 
         if (bluetoothHelper != null)
         {
@@ -248,14 +251,13 @@ public class BLEManager : MonoBehaviour
         else
         {
             UpdateBluetoothIcons(false, false, false);
-
-            DisconectBLE();
+            DisconectBLE();            
         }
     }
 
     private void DefineBLEDevice()
     {
-        if (targetManager.GetTargetID() == "CR")
+        if (targetManager.TargetID == "CR")
         {
             deviceName = "ASTRA_K_LED_BLE";
             UUID = "6E400001-B5A3-F393-E0A9-E50E24DCCA9E";
@@ -264,7 +266,7 @@ public class BLEManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Excpetion founded in DefineBLEDevice, targetID: " + targetManager.GetTargetID() + " don't match");
+            Debug.LogError("Excpetion founded in DefineBLEDevice, targetID: " + targetManager.TargetID + " don't match");
         }
 
     }

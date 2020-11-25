@@ -9,8 +9,8 @@ using System.Text.RegularExpressions;
 [RequireComponent(typeof(ControlPanel))]
 public class IntensityUI : MonoBehaviour
 {
-    [SerializeField]
-    private ManageInput manageInput;
+    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
+    public static Action<float> OnIntensityChanged;
 
     [SerializeField]
     private TMP_InputField intensityInput;
@@ -28,13 +28,13 @@ public class IntensityUI : MonoBehaviour
     private float maxIntensity;
 
     private ControlPanel controlPanel;
-    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
+    
 
     void Start()
     {
         controlPanel = GetComponent<ControlPanel>();
 
-        manageInput.Intensity = intensity;
+        OnIntensityChanged?.Invoke(intensity);
 
         // --- update the UI  ----
         // Input
@@ -111,7 +111,7 @@ public class IntensityUI : MonoBehaviour
 
         intensityInput.text = f.ToString("0.00");
 
-        manageInput.Intensity = f;
+        OnIntensityChanged?.Invoke(f);
 
         singleton.AddGameEvent(LogEventType.Intensity, f.ToString());
     }

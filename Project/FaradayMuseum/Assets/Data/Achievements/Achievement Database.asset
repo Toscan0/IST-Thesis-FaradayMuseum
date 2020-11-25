@@ -43,14 +43,14 @@ MonoBehaviour:
       haveExplanation: 1
       artifactID: CR
     - id: CR4
-      title: Make a spiral
+      title: Make a spiral 1
       description: Make a spiral by rotating the ampule
       objective: 1
       points: 50
       haveExplanation: 1
       artifactID: CR
     - id: CR5
-      title: Make a spiral
+      title: Make a spiral 2
       description: Make a spiral by rotating the ampule
       objective: 1
       points: 50

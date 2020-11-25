@@ -9,8 +9,8 @@ using System.Text.RegularExpressions;
 [RequireComponent(typeof(ControlPanel))]
 public class TensionUI : MonoBehaviour
 {
-    [SerializeField]
-    private ManageInput manageInput;
+    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
+    public static Action<float> OnTensionChanged;
 
     [SerializeField]
     private TMP_InputField tensionInput;
@@ -28,13 +28,12 @@ public class TensionUI : MonoBehaviour
     private float maxTension;
 
     private ControlPanel controlPanel;
-    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
 
     void Start()
     {
         controlPanel = GetComponent<ControlPanel>();
 
-        manageInput.Tension = tension;
+        OnTensionChanged?.Invoke(tension);
 
         // --- update the UI  ----
         // Input
@@ -82,7 +81,7 @@ public class TensionUI : MonoBehaviour
 
         tensionInput.text = f.ToString();
 
-        manageInput.Tension = f;
+        OnTensionChanged?.Invoke(f);
 
         singleton.AddGameEvent(LogEventType.Tension, f.ToString());
     }

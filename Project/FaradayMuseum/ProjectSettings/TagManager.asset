@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Toggle Bg
-  - OnText
-  - Handle
-  - Off Text
-  - XMLManager
-  - ModelTarget
+  tags: []
   layers:
   - Default
   - TransparentFX

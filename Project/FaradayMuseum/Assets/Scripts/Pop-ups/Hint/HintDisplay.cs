@@ -29,7 +29,7 @@ public class HintDisplay : PopUps
     void OnEnable()
     {
         string expertiseLevel = settingsManager.GetExpertiseLevel();
-        string targetID = targetManager.GetTargetID();
+        string targetID = targetManager.TargetID;
 
         for (int i = 0; i < hint.Length; i++)
         {

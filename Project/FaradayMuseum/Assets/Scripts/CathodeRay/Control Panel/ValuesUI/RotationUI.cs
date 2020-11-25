@@ -9,8 +9,8 @@ using System.Text.RegularExpressions;
 [RequireComponent(typeof(ControlPanel))]
 public class RotationUI : MonoBehaviour
 {
-    [SerializeField]
-    private ManageInput manageInput;
+    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
+    public static Action<float> OnRotationChanged;
 
     [SerializeField]
     private TMP_InputField rotationInput;
@@ -28,13 +28,12 @@ public class RotationUI : MonoBehaviour
     private float maxRotation;
 
     private ControlPanel controlPanel;
-    public static UsabilityTestsSingleton singleton = UsabilityTestsSingleton.Instance();
 
     void Start()
     {
         controlPanel = GetComponent<ControlPanel>();
 
-        manageInput.Rotation = rotation;
+        OnRotationChanged?.Invoke(rotation);
 
         // --- update the UI  ----
         // Input
@@ -82,7 +81,7 @@ public class RotationUI : MonoBehaviour
 
         rotationInput.text = f.ToString();
 
-        manageInput.Rotation=  f;
+        OnRotationChanged?.Invoke(f);
 
         singleton.AddGameEvent(LogEventType.Rotation, f.ToString());
     }
