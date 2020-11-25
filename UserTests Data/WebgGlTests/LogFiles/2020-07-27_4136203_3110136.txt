@@ -1,0 +1,38 @@
+EventType: OnAppLoad EventDate: 7/27/2020 1:24:29 PM AdditionalInfo:  
+EventType: Click EventDate: 7/27/2020 1:24:38 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/27/2020 1:24:43 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/27/2020 1:25:19 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/27/2020 1:25:24 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/27/2020 1:25:26 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 1:25:26 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 1:25:26 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/27/2020 1:25:26 PM AdditionalInfo: 13 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 121 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 173 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 178 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 181 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 186 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 191 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 192 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 196 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 199 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 200 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 204 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 205 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 208 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 213 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 217 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 220 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 221 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 223 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 226 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 228 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 230 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 236 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 242 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 244 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 247 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 249 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 251 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 252 
+EventType: Tension EventDate: 7/27/2020 1:25:36 PM AdditionalInfo: 257 

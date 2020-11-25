@@ -1,0 +1,57 @@
+EventType: OnAppLoad EventDate: 9/1/2020 11:08:24 PM AdditionalInfo:  
+EventType: Click EventDate: 9/1/2020 11:08:56 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 9/1/2020 11:09:06 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 9/1/2020 11:09:08 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 9/1/2020 11:09:10 PM AdditionalInfo:  
+EventType: Tension EventDate: 9/1/2020 11:09:11 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 9/1/2020 11:09:11 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 9/1/2020 11:09:11 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 9/1/2020 11:09:11 PM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:09:52 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 9/1/2020 11:09:52 PM AdditionalInfo: 1.884502 
+EventType: Rotation EventDate: 9/1/2020 11:09:54 PM AdditionalInfo: 106 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:09:56 PM AdditionalInfo: CR1 
+EventType: Rotation EventDate: 9/1/2020 11:09:56 PM AdditionalInfo: 0 
+EventType: Rotation EventDate: 9/1/2020 11:09:56 PM AdditionalInfo: 0 
+EventType: Tension EventDate: 9/1/2020 11:09:58 PM AdditionalInfo: 202 
+EventType: Tension EventDate: 9/1/2020 11:09:58 PM AdditionalInfo: 293 
+EventType: Intensity EventDate: 9/1/2020 11:10:00 PM AdditionalInfo: 0.628493 
+EventType: Intensity EventDate: 9/1/2020 11:10:01 PM AdditionalInfo: 1.718615 
+EventType: Click EventDate: 9/1/2020 11:10:03 PM AdditionalInfo: Achivement window: True 
+EventType: Click EventDate: 9/1/2020 11:10:04 PM AdditionalInfo: Achivement window: False 
+EventType: Click EventDate: 9/1/2020 11:10:04 PM AdditionalInfo: Show pop-ups: False 
+EventType: Click EventDate: 9/1/2020 11:10:05 PM AdditionalInfo: Show pop-ups: True 
+EventType: Click EventDate: 9/1/2020 11:10:06 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 9/1/2020 11:10:06 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 9/1/2020 11:10:07 PM AdditionalInfo: ShowAR: False 
+EventType: Click EventDate: 9/1/2020 11:10:07 PM AdditionalInfo: ShowAR: True 
+EventType: Rotation EventDate: 9/1/2020 11:10:09 PM AdditionalInfo: 90 
+EventType: Rotation EventDate: 9/1/2020 11:10:09 PM AdditionalInfo: 90 
+EventType: Intensity EventDate: 9/1/2020 11:10:11 PM AdditionalInfo: 0.4863021 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:10:18 PM AdditionalInfo: CR2 
+EventType: Intensity EventDate: 9/1/2020 11:10:18 PM AdditionalInfo: 2.192581 
+EventType: Intensity EventDate: 9/1/2020 11:10:18 PM AdditionalInfo: 2.168883 
+EventType: Rotation EventDate: 9/1/2020 11:10:21 PM AdditionalInfo: 56 
+EventType: Rotation EventDate: 9/1/2020 11:10:25 PM AdditionalInfo: 90 
+EventType: Rotation EventDate: 9/1/2020 11:10:25 PM AdditionalInfo: 90 
+EventType: Intensity EventDate: 9/1/2020 11:10:27 PM AdditionalInfo: 2.785039 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:10:28 PM AdditionalInfo: CR3 
+EventType: Intensity EventDate: 9/1/2020 11:10:28 PM AdditionalInfo: 0.1071284 
+EventType: Rotation EventDate: 9/1/2020 11:11:02 PM AdditionalInfo: 110 
+EventType: Rotation EventDate: 9/1/2020 11:11:02 PM AdditionalInfo: 110 
+EventType: Intensity EventDate: 9/1/2020 11:11:09 PM AdditionalInfo: 0.4 
+EventType: Intensity EventDate: 9/1/2020 11:11:09 PM AdditionalInfo: 0.4 
+EventType: Tension EventDate: 9/1/2020 11:11:18 PM AdditionalInfo: 150 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:11:18 PM AdditionalInfo: CR4 
+EventType: Tension EventDate: 9/1/2020 11:11:18 PM AdditionalInfo: 150 
+EventType: Rotation EventDate: 9/1/2020 11:11:35 PM AdditionalInfo: 94 
+EventType: Rotation EventDate: 9/1/2020 11:11:35 PM AdditionalInfo: 94 
+EventType: NoActionClick EventDate: 9/1/2020 11:12:18 PM AdditionalInfo: Hint showed: CR5 
+EventType: Intensity EventDate: 9/1/2020 11:12:21 PM AdditionalInfo: 0.4 
+EventType: Intensity EventDate: 9/1/2020 11:12:25 PM AdditionalInfo: 0.7 
+EventType: Intensity EventDate: 9/1/2020 11:12:25 PM AdditionalInfo: 0.7 
+EventType: Tension EventDate: 9/1/2020 11:12:28 PM AdditionalInfo: 100 
+EventType: AchivementUnlocked EventDate: 9/1/2020 11:12:28 PM AdditionalInfo: CR5 
+EventType: NoActionClick EventDate: 9/1/2020 11:12:28 PM AdditionalInfo: GameEnd 
+EventType: Tension EventDate: 9/1/2020 11:12:28 PM AdditionalInfo: 100 
+EventType: Click EventDate: 9/1/2020 11:12:30 PM AdditionalInfo: Questionnaire 

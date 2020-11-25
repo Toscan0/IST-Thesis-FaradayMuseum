@@ -1,0 +1,62 @@
+EventType: OnAppLoad EventDate: 8/4/2020 12:25:59 AM AdditionalInfo:  
+EventType: Click EventDate: 8/4/2020 12:26:03 AM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/4/2020 12:26:04 AM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/4/2020 12:26:05 AM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/4/2020 12:26:06 AM AdditionalInfo:  
+EventType: Tension EventDate: 8/4/2020 12:26:06 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 12:26:06 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 12:26:06 AM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/4/2020 12:26:06 AM AdditionalInfo: 13 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 16 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 31 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 48 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 71 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 104 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 136 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 165 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 191 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 217 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 235 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 247 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 255 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 247 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 238 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 223 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 212 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 194 
+EventType: Rotation EventDate: 8/4/2020 12:26:12 AM AdditionalInfo: 182 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 177 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 171 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 168 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 156 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 139 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 118 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 101 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 83 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 71 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 60 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 57 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 60 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 66 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 74 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 86 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 95 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 109 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 121 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 130 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 136 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 139 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 142 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 144 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 147 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 150 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 153 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 156 
+EventType: Rotation EventDate: 8/4/2020 12:26:13 AM AdditionalInfo: 165 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 174 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 185 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 194 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 197 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 198 
+EventType: Rotation EventDate: 8/4/2020 12:26:14 AM AdditionalInfo: 198 
+EventType: Click EventDate: 8/4/2020 12:26:16 AM AdditionalInfo: Achivement window: True 

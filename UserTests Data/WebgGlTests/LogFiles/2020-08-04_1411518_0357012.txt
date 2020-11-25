@@ -1,0 +1,40 @@
+EventType: OnAppLoad EventDate: 8/4/2020 1:09:08 AM AdditionalInfo:  
+EventType: Click EventDate: 8/4/2020 1:09:18 AM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/4/2020 1:09:22 AM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/4/2020 1:09:25 AM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/4/2020 1:09:28 AM AdditionalInfo:  
+EventType: Tension EventDate: 8/4/2020 1:09:29 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 1:09:29 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 1:09:29 AM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/4/2020 1:09:29 AM AdditionalInfo: 13 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 181 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 192 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 213 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 236 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 264 
+EventType: Tension EventDate: 8/4/2020 1:09:34 AM AdditionalInfo: 286 
+EventType: AchivementUnlocked EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.2493193 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.3204148 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.533698 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.6521894 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.7706823 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.8417763 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 0.9602677 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 1.173554 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 1.434235 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 1.552726 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 1.694917 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 1.860805 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.002994 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.145185 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.287374 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.358469 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.453263 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.548056 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.61915 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.666548 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.713945 
+EventType: Intensity EventDate: 8/4/2020 1:09:36 AM AdditionalInfo: 2.761341 
+EventType: Rotation EventDate: 8/4/2020 1:09:39 AM AdditionalInfo: 211 

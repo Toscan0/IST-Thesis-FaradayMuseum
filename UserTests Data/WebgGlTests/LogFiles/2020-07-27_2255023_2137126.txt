@@ -1,0 +1,53 @@
+EventType: OnAppLoad EventDate: 7/27/2020 2:00:23 PM AdditionalInfo:  
+EventType: Click EventDate: 7/27/2020 2:00:31 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/27/2020 2:00:33 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/27/2020 2:00:34 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/27/2020 2:00:35 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/27/2020 2:00:35 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 2:00:35 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 2:00:35 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/27/2020 2:00:35 PM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 7/27/2020 2:00:38 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 7/27/2020 2:00:38 PM AdditionalInfo: 0.02369645 
+EventType: Intensity EventDate: 7/27/2020 2:00:38 PM AdditionalInfo: 0.1658874 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.3791722 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.4976651 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.6398529 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.7583458 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.8768373 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 0.9479312 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.019027 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.11382 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.184916 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.232311 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.279709 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.303407 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.327105 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.3982 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.469296 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.564088 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.706279 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.848468 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.919564 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.943261 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.966961 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 1.990657 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.014357 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.061753 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.10915 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.156546 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.203944 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.25134 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.322435 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.369831 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.417228 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.488322 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.512022 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.559418 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.606814 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.677909 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.772703 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 2.938591 
+EventType: Intensity EventDate: 7/27/2020 2:00:39 PM AdditionalInfo: 3 
+EventType: Click EventDate: 7/27/2020 2:00:42 PM AdditionalInfo: ShowAR: False 
+EventType: Click EventDate: 7/27/2020 2:00:43 PM AdditionalInfo: ShowAR: True 

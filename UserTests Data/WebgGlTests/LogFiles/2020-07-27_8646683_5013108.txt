@@ -1,0 +1,951 @@
+EventType: OnAppLoad EventDate: 7/27/2020 6:28:05 PM AdditionalInfo:  
+EventType: Click EventDate: 7/27/2020 6:28:11 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/27/2020 6:28:13 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/27/2020 6:28:16 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/27/2020 6:28:18 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/27/2020 6:28:19 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 6:28:19 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/27/2020 6:28:19 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/27/2020 6:28:19 PM AdditionalInfo: 13 
+EventType: Intensity EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 0 
+EventType: Tension EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 102 
+EventType: Tension EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 213 
+EventType: Tension EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 242 
+EventType: Tension EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 252 
+EventType: Tension EventDate: 7/27/2020 6:28:28 PM AdditionalInfo: 262 
+EventType: Tension EventDate: 7/27/2020 6:28:29 PM AdditionalInfo: 264 
+EventType: Tension EventDate: 7/27/2020 6:28:29 PM AdditionalInfo: 265 
+EventType: Tension EventDate: 7/27/2020 6:28:29 PM AdditionalInfo: 266 
+EventType: Tension EventDate: 7/27/2020 6:28:29 PM AdditionalInfo: 266 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 264 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 260 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 255 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 248 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 240 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 232 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 219 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 208 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 188 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 179 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 174 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 162 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 153 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 141 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 132 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 127 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 120 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 114 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 107 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 102 
+EventType: Tension EventDate: 7/27/2020 6:28:30 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/27/2020 6:28:33 PM AdditionalInfo: 13 
+EventType: Click EventDate: 7/27/2020 6:28:37 PM AdditionalInfo: Rotation: True 
+EventType: Click EventDate: 7/27/2020 6:28:38 PM AdditionalInfo: Rotation: False 
+EventType: Click EventDate: 7/27/2020 6:28:38 PM AdditionalInfo: Rotation: True 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Reset Rotation 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.0, 90.0, 0.0) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.0, 90.0, 0.0) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.0, 90.1, 0.1) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (360.0, 91.1, 0.8) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.1, 99.6, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.2, 102.0, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.7, 359.3) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.7, 359.3) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.7, 359.3) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.4, 359.1) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.4, 359.1) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.3, 102.4, 359.2) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.2, 102.4, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.1, 102.8, 0.0) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (0.0, 103.3, 0.4) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (359.9, 104.5, 1.0) 
+EventType: Click EventDate: 7/27/2020 6:28:39 PM AdditionalInfo: Obj Rotation: (359.5, 107.6, 2.3) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.3, 110.8, 2.8) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.1, 114.1, 3.2) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.0, 117.6, 3.4) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.1, 119.5, 3.1) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.2, 120.6, 3.0) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 121.4, 2.8) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 121.8, 2.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 122.5, 2.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 122.9, 2.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 123.4, 2.8) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 123.4, 2.8) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 123.4, 2.8) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 123.4, 2.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.4, 123.4, 2.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (359.6, 123.9, 2.4) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (0.5, 127.9, 1.2) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (0.8, 130.5, 1.0) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (1.1, 135.8, 0.7) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (1.1, 143.4, 0.6) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (1.2, 143.5, 0.6) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (1.6, 144.1, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (2.0, 145.1, 360.0) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (2.7, 147.3, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (3.0, 149.2, 359.4) 
+EventType: Click EventDate: 7/27/2020 6:28:40 PM AdditionalInfo: Obj Rotation: (3.3, 154.9, 359.2) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 159.9, 359.3) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.6, 162.9, 359.4) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.0, 166.2, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.7, 168.3, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.7, 169.3, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.6, 169.6, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.6, 169.7, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.6, 169.6, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.6, 169.7, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.7, 170.5, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (1.9, 171.3, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.3, 172.3, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.6, 173.9, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.8, 177.2, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (2.8, 178.9, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.0, 180.6, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 182.1, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 183.3, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 183.6, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 183.6, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:41 PM AdditionalInfo: Obj Rotation: (3.1, 183.6, 359.5) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (3.5, 183.4, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (4.5, 183.1, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (5.8, 182.9, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (7.7, 182.7, 359.8) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (9.7, 182.6, 359.9) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (11.2, 182.6, 359.9) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (12.9, 182.8, 0.0) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.0, 183.2, 0.1) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.8, 183.9, 0.1) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.5, 184.7, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.1, 185.7, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.3, 187.0, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.3, 188.3, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.2, 189.9, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.2, 190.7, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.1, 191.9, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (16.0, 192.6, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.8, 193.6, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.5, 193.9, 0.1) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.1, 194.7, 360.0) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.7, 195.4, 359.9) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.4, 196.4, 359.8) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.1, 197.9, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.0, 199.4, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.0, 200.1, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.2, 201.5, 359.7) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.5, 202.4, 359.8) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (14.9, 203.5, 0.0) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.3, 204.4, 0.2) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.9, 206.0, 0.5) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.9, 206.2, 0.5) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.9, 206.5, 0.5) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.7, 206.6, 0.4) 
+EventType: Click EventDate: 7/27/2020 6:28:42 PM AdditionalInfo: Obj Rotation: (15.5, 206.8, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (15.5, 206.8, 0.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (15.0, 206.8, 0.1) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (14.2, 207.0, 359.6) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (12.6, 207.5, 358.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (11.8, 208.0, 358.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (10.6, 208.7, 357.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (10.1, 209.2, 357.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (9.5, 209.8, 357.0) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (8.9, 210.5, 356.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (8.5, 211.1, 356.5) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (8.3, 211.8, 356.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (8.0, 212.9, 356.1) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.8, 213.7, 356.0) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.6, 214.4, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.5, 214.9, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 215.9, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.4, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.4, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.6, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.6, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.6, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 216.7, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.3, 217.0, 355.6) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.3, 217.6, 355.6) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.4, 218.3, 355.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.5, 219.2, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.5, 220.2, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.5, 221.4, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.5, 222.7, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.3, 224.5, 355.6) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (7.0, 226.6, 355.2) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (6.7, 228.6, 354.9) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (6.3, 230.7, 354.4) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (5.8, 233.7, 353.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (5.4, 235.6, 353.1) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (5.1, 237.1, 352.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.9, 238.3, 352.4) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.7, 239.2, 352.1) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.6, 239.5, 351.9) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.5, 239.8, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.3, 240.1, 351.3) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.1, 240.4, 351.0) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.1, 240.5, 350.9) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.1, 240.5, 350.9) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.1, 240.5, 350.9) 
+EventType: Click EventDate: 7/27/2020 6:28:43 PM AdditionalInfo: Obj Rotation: (4.0, 240.4, 350.7) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (0.9, 227.4, 347.4) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (0.4, 224.1, 346.9) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (0.3, 222.5, 346.8) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (0.0, 221.1, 346.6) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (359.8, 216.4, 346.4) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (0.4, 213.5, 346.8) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (10.2, 198.5, 350.1) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (16.8, 193.5, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (20.2, 191.2, 352.4) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (22.7, 189.7, 352.8) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (25.0, 188.5, 353.2) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (29.0, 186.7, 353.7) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (29.8, 186.5, 353.8) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (30.7, 186.2, 353.9) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (31.1, 186.2, 354.0) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (31.8, 186.4, 354.1) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (32.3, 186.8, 354.1) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (33.2, 187.7, 354.3) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (34.4, 188.8, 354.5) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (35.6, 190.3, 354.8) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (37.0, 192.4, 355.2) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (38.1, 194.6, 355.5) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (39.6, 197.7, 356.1) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (40.3, 199.8, 356.5) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (41.1, 202.8, 356.9) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (41.5, 206.1, 357.1) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (41.4, 206.8, 357.0) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (41.2, 207.0, 356.9) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (40.8, 207.2, 356.7) 
+EventType: Click EventDate: 7/27/2020 6:28:44 PM AdditionalInfo: Obj Rotation: (40.3, 207.1, 356.3) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.2, 207.4, 356.3) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.1, 208.5, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.1, 211.7, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.2, 217.8, 356.3) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.3, 221.8, 356.4) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.5, 224.4, 356.6) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.7, 227.1, 356.9) 
+EventType: Click EventDate: 7/27/2020 6:28:46 PM AdditionalInfo: Obj Rotation: (40.7, 228.1, 357.0) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.8, 229.2, 357.0) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.8, 230.3, 357.1) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.8, 231.0, 357.1) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.8, 231.7, 357.1) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.6, 233.0, 356.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.4, 233.8, 356.5) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.3, 234.3, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (40.1, 235.1, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (39.8, 236.2, 355.2) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (39.5, 237.8, 354.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (39.1, 239.4, 353.9) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.8, 241.3, 353.0) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.6, 242.2, 352.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.5, 243.2, 352.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.3, 244.1, 351.8) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.3, 244.2, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.3, 244.2, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.3, 244.2, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.3, 244.2, 351.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.2, 244.2, 351.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (38.2, 244.1, 351.4) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (37.8, 243.6, 350.4) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (37.5, 243.1, 349.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (37.1, 242.3, 348.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.8, 241.7, 347.9) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.4, 240.7, 347.1) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.1, 239.9, 346.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.9, 238.4, 346.0) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.8, 237.6, 345.8) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.7, 235.8, 345.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.6, 234.2, 345.5) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.6, 231.6, 345.5) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.6, 229.5, 345.5) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.7, 226.9, 345.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (35.9, 224.5, 345.9) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.1, 222.3, 346.2) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.3, 220.7, 346.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.3, 218.7, 346.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.3, 216.4, 346.4) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.5, 215.2, 346.5) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.6, 213.9, 346.6) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.7, 212.8, 346.7) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.2, 210.7, 346.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.0, 208.1, 346.1) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.0, 206.1, 346.2) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.2, 202.5, 346.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.2, 200.7, 346.3) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (36.6, 197.4, 346.4) 
+EventType: Click EventDate: 7/27/2020 6:28:47 PM AdditionalInfo: Obj Rotation: (37.0, 195.7, 346.6) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (37.7, 193.2, 346.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (38.3, 192.1, 346.9) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (38.7, 191.4, 347.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (39.8, 190.1, 347.3) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (40.4, 189.3, 347.4) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (41.3, 188.0, 347.6) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (42.0, 187.0, 347.7) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (42.8, 185.7, 347.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (43.7, 184.2, 347.9) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (44.1, 183.6, 347.9) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (44.3, 183.4, 348.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (44.5, 183.2, 348.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (44.8, 183.1, 348.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (45.7, 182.9, 348.1) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (46.8, 182.9, 348.1) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (48.4, 182.7, 348.2) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (50.3, 182.6, 348.4) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (53.8, 182.5, 348.6) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (58.3, 182.8, 349.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (62.1, 183.3, 349.4) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (63.1, 183.4, 349.5) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (64.4, 183.6, 349.7) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (64.8, 183.7, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.0, 183.7, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.0, 183.7, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.0, 183.7, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.0, 183.8, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.0, 183.9, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (65.3, 184.4, 349.9) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (66.0, 185.0, 350.0) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (66.9, 185.6, 350.2) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (68.6, 186.7, 350.7) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (69.7, 187.4, 351.1) 
+EventType: Click EventDate: 7/27/2020 6:28:48 PM AdditionalInfo: Obj Rotation: (71.0, 187.9, 351.6) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (73.3, 188.4, 352.7) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (74.8, 188.6, 353.5) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (75.5, 188.7, 353.9) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (76.5, 188.9, 354.5) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (77.3, 188.9, 355.0) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (77.9, 189.0, 355.5) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.4, 189.1, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.7, 189.1, 356.1) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.8, 189.2, 356.2) 
+EventType: Click EventDate: 7/27/2020 6:28:49 PM AdditionalInfo: Obj Rotation: (78.3, 188.7, 355.8) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (76.4, 187.6, 354.5) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (75.1, 187.1, 353.8) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.3, 187.0, 353.5) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Tension EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Warning EventDate: 7/27/2020 6:28:50 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/27/2020 6:28:50 PM AdditionalInfo: 300 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 299 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 296 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 287 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 278 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 265 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 255 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 245 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 232 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 230 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 228 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 226 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 225 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 222 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 219 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 217 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 215 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 214 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 213 
+EventType: Tension EventDate: 7/27/2020 6:28:51 PM AdditionalInfo: 211 
+EventType: AchivementUnlocked EventDate: 7/27/2020 6:28:52 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 7/27/2020 6:28:52 PM AdditionalInfo: 0.01777462 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 0.6576276 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 0.8353662 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 0.9064602 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 0.9775556 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 0.9953302 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.013103 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.048651 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.084199 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.19084 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.208615 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.226388 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.261936 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.279709 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.297484 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.315257 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.333031 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.350804 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.368579 
+EventType: Intensity EventDate: 7/27/2020 6:28:53 PM AdditionalInfo: 1.386352 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (74.0, 187.0, 353.3) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (73.7, 186.8, 353.2) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (71.8, 186.6, 352.4) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (70.1, 186.8, 351.8) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (67.7, 187.1, 350.9) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (66.5, 187.4, 350.5) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (64.6, 187.6, 349.8) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (63.9, 187.7, 349.6) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (62.8, 187.6, 349.3) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (61.9, 187.6, 349.0) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (61.0, 187.6, 348.8) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (59.9, 187.5, 348.5) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (58.9, 187.5, 348.2) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (58.7, 187.5, 348.1) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (58.5, 187.5, 348.1) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (58.3, 187.5, 348.0) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (57.9, 187.5, 347.9) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (57.2, 187.5, 347.8) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (56.7, 187.6, 347.7) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (56.3, 187.8, 347.5) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (55.9, 187.8, 347.4) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (54.9, 188.1, 347.2) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (54.5, 188.2, 347.1) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (53.2, 188.6, 346.7) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (52.5, 188.9, 346.6) 
+EventType: Click EventDate: 7/27/2020 6:28:55 PM AdditionalInfo: Obj Rotation: (51.3, 189.4, 346.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (50.8, 189.7, 346.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (50.1, 190.2, 345.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (49.8, 190.6, 345.8) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (49.7, 190.8, 345.8) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (49.6, 190.9, 345.7) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (49.5, 191.1, 345.7) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (49.1, 191.9, 345.6) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (48.9, 192.5, 345.5) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (48.6, 193.2, 345.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (48.1, 194.5, 345.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (47.9, 195.2, 345.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (47.4, 196.7, 344.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (47.3, 197.1, 344.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.9, 198.4, 344.7) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.8, 199.1, 344.6) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.5, 200.4, 344.5) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.4, 201.2, 344.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.1, 202.5, 344.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (46.0, 203.1, 344.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.7, 204.1, 344.0) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.7, 204.9, 343.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.5, 205.6, 343.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.4, 207.0, 343.8) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.3, 207.9, 343.7) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (45.0, 209.8, 343.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.9, 210.6, 343.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 212.2, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 213.2, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.6, 214.2, 343.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.6, 216.0, 343.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.6, 217.0, 343.1) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 218.6, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 219.3, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.8, 220.5, 343.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.8, 221.2, 343.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.8, 221.7, 343.4) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 222.6, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.7, 223.2, 343.2) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.6, 224.2, 343.0) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.5, 225.1, 342.9) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.3, 225.9, 342.7) 
+EventType: Click EventDate: 7/27/2020 6:28:56 PM AdditionalInfo: Obj Rotation: (44.2, 226.7, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 227.7, 342.3) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 228.7, 342.2) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 229.1, 342.2) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 229.3, 342.2) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 229.4, 342.3) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.1, 229.7, 342.4) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 229.9, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:28:57 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:29:01 PM AdditionalInfo: Achivement window: True 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (44.2, 230.0, 342.5) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (44.1, 229.8, 342.2) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (43.9, 229.6, 342.0) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (43.0, 228.6, 340.6) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (40.4, 226.5, 336.8) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (37.3, 225.1, 332.5) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (35.6, 224.7, 330.4) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:06 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.3, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:08 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:09 PM AdditionalInfo: Achivement window: False 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 1.492994 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 1.652958 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 1.830695 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.097302 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.488324 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.630513 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.701609 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.719382 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.75493 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.80825 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.879346 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 2.968215 
+EventType: Intensity EventDate: 7/27/2020 6:29:11 PM AdditionalInfo: 3 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 32 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 34 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 37 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 41 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 54 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 65 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 67 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 69 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 72 
+EventType: Rotation EventDate: 7/27/2020 6:29:12 PM AdditionalInfo: 74 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 78 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 85 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 91 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 98 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 102 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 105 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 107 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 109 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 113 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 120 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 131 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 135 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 140 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 133 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 113 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 98 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 96 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 94 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 91 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 89 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 85 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 80 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 76 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 74 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 69 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 65 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 59 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 52 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 45 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 39 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 34 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 32 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 34 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 50 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 59 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 67 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 69 
+EventType: Rotation EventDate: 7/27/2020 6:29:13 PM AdditionalInfo: 72 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 74 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 78 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 80 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 85 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 89 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 94 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 98 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 107 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 111 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 113 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 116 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 118 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 120 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 122 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 124 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 129 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 131 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 135 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 144 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 148 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 151 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 148 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 146 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 142 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 135 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 129 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 124 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 118 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 116 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 111 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 107 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 102 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 96 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 94 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 91 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 89 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 85 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 83 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 80 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 76 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 74 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 72 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 69 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 65 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 63 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 61 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 59 
+EventType: Rotation EventDate: 7/27/2020 6:29:14 PM AdditionalInfo: 56 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 52 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 50 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 48 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 43 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 41 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 39 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 41 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 48 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 50 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 52 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 54 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 56 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 59 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 61 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 63 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 67 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 72 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 76 
+EventType: Rotation EventDate: 7/27/2020 6:29:15 PM AdditionalInfo: 80 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 212 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.6, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 213 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.5, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 215 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 224.0, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 223 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 223.4, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 234 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.4, 222.7, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 245 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.3, 222.3, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 252 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.3, 222.0, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 257 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.3, 221.8, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 261 
+EventType: Click EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: Obj Rotation: (35.3, 221.6, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:16 PM AdditionalInfo: 263 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 221.5, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 266 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 221.3, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 269 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 221.1, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 273 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 275 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 277 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.9, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.8, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 278 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 220.7, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 280 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 220.6, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 283 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 220.4, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 286 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 220.2, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 290 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 219.9, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 296 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 219.5, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 219.0, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 218.8, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 218.6, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.5, 218.5, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 218.4, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 218.2, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 217.9, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 217.9, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 217.8, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 217.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 217.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 217.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 217.6, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 217.2, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 216.7, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 215.9, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 215.4, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.4, 213.9, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 213.2, 330.1) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.5, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.4, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.4, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.4, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.4, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.2, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.3, 212.3, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.1, 211.7, 329.9) 
+EventType: Click EventDate: 7/27/2020 6:29:17 PM AdditionalInfo: Obj Rotation: (35.0, 211.1, 329.9) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 209.2, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 208.0, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 206.4, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 205.3, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 204.3, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.9, 204.0, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.9, 203.9, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.9, 203.9, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.9, 203.9, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.9, 203.9, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.8, 204.1, 329.7) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.8, 204.6, 329.7) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.8, 205.8, 329.7) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.8, 207.2, 329.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.8, 211.1, 330.5) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (36.0, 212.9, 330.6) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (36.1, 215.0, 330.7) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (36.0, 215.7, 330.6) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.9, 217.1, 330.5) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.8, 218.0, 330.4) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.8, 219.5, 330.4) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.8, 221.4, 330.4) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 272 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.7, 222.9, 330.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 245 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.6, 224.7, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 211 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.5, 226.9, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 171 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.6, 228.4, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 147 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.6, 229.6, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 126 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.4, 232.1, 329.9) 
+EventType: Tension EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: 100 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.2, 234.1, 329.5) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (35.0, 235.1, 329.2) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.8, 237.3, 328.7) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.6, 238.5, 328.4) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.4, 240.0, 328.1) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.4, 240.7, 328.0) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.6, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.8, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.8, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.8, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.8, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 241.7, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.3, 240.9, 327.8) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.4, 240.1, 328.0) 
+EventType: Click EventDate: 7/27/2020 6:29:18 PM AdditionalInfo: Obj Rotation: (34.6, 238.3, 328.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (34.8, 235.8, 328.8) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (35.0, 234.0, 329.1) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (35.4, 229.9, 329.6) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 115 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (35.5, 227.4, 329.8) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 161 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (35.8, 223.7, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 229 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (36.2, 218.8, 330.5) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (36.4, 216.9, 330.7) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (36.6, 214.9, 330.9) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (36.7, 212.8, 330.9) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (36.9, 208.6, 331.1) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.1, 206.4, 331.2) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.2, 205.1, 331.3) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.3, 203.8, 331.3) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.3, 201.5, 331.3) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.3, 200.1, 331.3) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 198.4, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.8, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.5, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.5, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.5, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.5, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.5, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.5, 197.6, 331.4) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (37.8, 199.4, 331.5) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (38.6, 203.7, 332.0) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (39.8, 214.4, 333.0) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.6, 226.5, 334.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 223 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.9, 233.9, 334.7) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 101 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.9, 235.1, 334.7) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 100 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.9, 235.1, 334.7) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.8, 235.0, 334.6) 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.6, 233.1, 334.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 108 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.1, 227.2, 333.4) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 203 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (40.0, 224.7, 333.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 245 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 277 
+EventType: Click EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:19 PM AdditionalInfo: 278 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.2) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.2) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.2) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 277 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.9, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 275 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.9, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.9, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.9, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.9, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.8, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 277 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.5, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 281 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 222.3, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 285 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 221.9, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 292 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 221.8, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 294 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.8, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.8, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.8, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.8, 333.1) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.8, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 292 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.9, 333.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 291 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 221.9, 333.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 290 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.3, 332.9) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 281 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.5, 332.9) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 279 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 278 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 222.6, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.8, 222.3, 333.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 284 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 221.7, 333.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 295 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 220.5, 333.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (40.0, 220.1, 333.3) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (40.0, 220.1, 333.3) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (40.0, 220.1, 333.3) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (40.0, 220.1, 333.3) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.9, 220.2, 333.2) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 220.8, 332.9) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 221.2, 332.8) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 221.2, 332.8) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 221.2, 332.8) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 221.3, 332.8) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 298 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 221.4, 332.8) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 297 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 221.0, 332.9) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 220.5, 333.0) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.7, 220.3, 333.0) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (39.6, 220.7, 332.8) 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (38.9, 223.6, 332.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 249 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (38.4, 227.8, 331.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 169 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (38.3, 229.8, 331.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 133 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (38.3, 230.6, 331.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: 118 
+EventType: Click EventDate: 7/27/2020 6:29:20 PM AdditionalInfo: Obj Rotation: (38.3, 230.6, 331.0) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (38.3, 228.4, 331.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 156 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (38.5, 217.4, 331.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 300 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (38.5, 217.3, 331.3) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (38.0, 218.5, 330.8) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.6, 221.0, 330.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 277 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.5, 222.4, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 252 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.5, 223.1, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 239 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.5, 223.1, 330.2) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.6, 222.7, 330.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 247 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.6, 222.2, 330.4) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 257 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.6, 222.2, 330.4) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.6, 222.2, 330.3) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 256 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.4, 222.8, 330.2) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 245 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.4, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 232 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.5, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 230 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.5, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 229 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.5, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.5, 330.0) 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.5, 330.0) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 230 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.3, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 234 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.2, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 235 
+EventType: Click EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: Obj Rotation: (37.3, 223.2, 330.1) 
+EventType: Tension EventDate: 7/27/2020 6:29:21 PM AdditionalInfo: 236 

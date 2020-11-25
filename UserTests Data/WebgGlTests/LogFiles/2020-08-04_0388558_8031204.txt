@@ -1,0 +1,55 @@
+EventType: OnAppLoad EventDate: 8/4/2020 10:23:04 AM AdditionalInfo:  
+EventType: Click EventDate: 8/4/2020 10:23:13 AM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/4/2020 10:23:16 AM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/4/2020 10:23:18 AM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/4/2020 10:23:20 AM AdditionalInfo:  
+EventType: Tension EventDate: 8/4/2020 10:23:21 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 10:23:21 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 10:23:21 AM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/4/2020 10:23:21 AM AdditionalInfo: 13 
+EventType: Tension EventDate: 8/4/2020 10:23:35 AM AdditionalInfo: 291 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 300 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 297 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 294 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 293 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 286 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 276 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 262 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 241 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 213 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 184 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 158 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 134 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 106 
+EventType: Tension EventDate: 8/4/2020 10:23:36 AM AdditionalInfo: 100 
+EventType: Intensity EventDate: 8/4/2020 10:23:39 AM AdditionalInfo: 0 
+EventType: AchivementUnlocked EventDate: 8/4/2020 10:23:39 AM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 8/4/2020 10:23:39 AM AdditionalInfo: 2.121487 
+EventType: Intensity EventDate: 8/4/2020 10:23:40 AM AdditionalInfo: 2.145185 
+EventType: Intensity EventDate: 8/4/2020 10:23:40 AM AdditionalInfo: 2.168882 
+EventType: Intensity EventDate: 8/4/2020 10:23:40 AM AdditionalInfo: 2.19258 
+EventType: Intensity EventDate: 8/4/2020 10:23:40 AM AdditionalInfo: 2.21628 
+EventType: Intensity EventDate: 8/4/2020 10:23:40 AM AdditionalInfo: 2.239978 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.334771 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.405867 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.429565 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.524358 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.548056 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.595452 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.642849 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.666548 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.690246 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.713945 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.737643 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.761341 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.785039 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.808737 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.832437 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.856134 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.879832 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.90353 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.927228 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.950928 
+EventType: Intensity EventDate: 8/4/2020 10:23:41 AM AdditionalInfo: 2.974626 
+EventType: Click EventDate: 8/4/2020 10:23:58 AM AdditionalInfo: Achivement window: True 
+EventType: Click EventDate: 8/4/2020 10:24:05 AM AdditionalInfo: Achivement window: False 

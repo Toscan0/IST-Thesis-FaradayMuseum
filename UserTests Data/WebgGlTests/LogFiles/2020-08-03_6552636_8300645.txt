@@ -1,0 +1,38 @@
+EventType: OnAppLoad EventDate: 8/3/2020 11:57:55 PM AdditionalInfo:  
+EventType: Click EventDate: 8/3/2020 11:58:01 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/3/2020 11:58:06 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/3/2020 11:58:08 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/3/2020 11:58:09 PM AdditionalInfo:  
+EventType: Tension EventDate: 8/3/2020 11:58:09 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/3/2020 11:58:09 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/3/2020 11:58:09 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/3/2020 11:58:09 PM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 8/3/2020 11:58:12 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 8/3/2020 11:58:12 PM AdditionalInfo: 0.2019234 
+EventType: Intensity EventDate: 8/3/2020 11:58:13 PM AdditionalInfo: 0.2493193 
+EventType: Intensity EventDate: 8/3/2020 11:58:13 PM AdditionalInfo: 0.7943804 
+EventType: Intensity EventDate: 8/3/2020 11:58:13 PM AdditionalInfo: 1.078761 
+EventType: Intensity EventDate: 8/3/2020 11:58:13 PM AdditionalInfo: 1.197252 
+EventType: Intensity EventDate: 8/3/2020 11:58:13 PM AdditionalInfo: 1.22095 
+EventType: Rotation EventDate: 8/3/2020 11:58:15 PM AdditionalInfo: 124 
+EventType: Rotation EventDate: 8/3/2020 11:58:16 PM AdditionalInfo: 223 
+EventType: Rotation EventDate: 8/3/2020 11:58:16 PM AdditionalInfo: 296 
+EventType: Tension EventDate: 8/3/2020 11:58:18 PM AdditionalInfo: 254 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 257 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 262 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 265 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 267 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 270 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 273 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 278 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 280 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 283 
+EventType: Tension EventDate: 8/3/2020 11:58:19 PM AdditionalInfo: 285 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 286 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 288 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 285 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 275 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 267 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 262 
+EventType: Tension EventDate: 8/3/2020 11:58:20 PM AdditionalInfo: 259 
+EventType: Intensity EventDate: 8/3/2020 11:58:21 PM AdditionalInfo: 2.808737 

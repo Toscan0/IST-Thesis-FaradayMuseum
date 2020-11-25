@@ -1,0 +1,5 @@
+EventType: OnAppLoad EventDate: 8/4/2020 1:58:12 PM AdditionalInfo:  
+EventType: Click EventDate: 8/4/2020 1:58:18 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/4/2020 1:58:22 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/4/2020 1:58:27 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/4/2020 1:58:30 PM AdditionalInfo:  

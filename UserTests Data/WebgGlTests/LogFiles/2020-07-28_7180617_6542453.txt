@@ -1,0 +1,12 @@
+EventType: OnAppLoad EventDate: 7/28/2020 2:10:44 PM AdditionalInfo:  
+EventType: Click EventDate: 7/28/2020 2:11:30 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/28/2020 2:11:33 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/28/2020 2:11:35 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/28/2020 2:11:37 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/28/2020 2:11:38 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/28/2020 2:11:38 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/28/2020 2:11:38 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/28/2020 2:11:38 PM AdditionalInfo: 13 
+EventType: Click EventDate: 7/28/2020 2:11:39 PM AdditionalInfo: Instructions: True 
+EventType: Click EventDate: 7/28/2020 2:11:41 PM AdditionalInfo: Instructions: False 
+EventType: Click EventDate: 7/28/2020 2:11:44 PM AdditionalInfo: Rotation: True 

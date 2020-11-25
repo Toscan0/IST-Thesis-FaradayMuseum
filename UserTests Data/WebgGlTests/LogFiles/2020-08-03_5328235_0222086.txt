@@ -1,0 +1,22 @@
+EventType: OnAppLoad EventDate: 8/3/2020 9:53:56 PM AdditionalInfo:  
+EventType: Click EventDate: 8/3/2020 9:54:28 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/3/2020 9:54:30 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/3/2020 9:54:47 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/3/2020 9:54:49 PM AdditionalInfo:  
+EventType: Tension EventDate: 8/3/2020 9:54:50 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/3/2020 9:54:50 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/3/2020 9:54:50 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/3/2020 9:54:50 PM AdditionalInfo: 13 
+EventType: Click EventDate: 8/3/2020 9:54:58 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:54:59 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:54:59 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:55:00 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:55:00 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:55:01 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:55:02 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:55:02 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:55:03 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:55:03 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:55:04 PM AdditionalInfo: ShowObjs: False 
+EventType: Click EventDate: 8/3/2020 9:55:05 PM AdditionalInfo: ShowObjs: True 
+EventType: Click EventDate: 8/3/2020 9:55:07 PM AdditionalInfo: ShowObjs: False 

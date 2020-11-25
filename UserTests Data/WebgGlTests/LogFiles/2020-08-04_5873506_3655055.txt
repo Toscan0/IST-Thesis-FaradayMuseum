@@ -1,0 +1,12 @@
+EventType: OnAppLoad EventDate: 8/4/2020 12:33:03 AM AdditionalInfo:  
+EventType: Click EventDate: 8/4/2020 12:33:08 AM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 8/4/2020 12:33:09 AM AdditionalInfo: Next Button 
+EventType: Click EventDate: 8/4/2020 12:33:09 AM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 8/4/2020 12:33:11 AM AdditionalInfo:  
+EventType: Tension EventDate: 8/4/2020 12:33:12 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 12:33:12 AM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/4/2020 12:33:12 AM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/4/2020 12:33:12 AM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 8/4/2020 12:34:38 AM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 8/4/2020 12:34:38 AM AdditionalInfo: 0.9879054 
+EventType: NoActionClick EventDate: 8/4/2020 12:35:38 AM AdditionalInfo: Hint showed: CR1 

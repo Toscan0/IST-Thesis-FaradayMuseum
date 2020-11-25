@@ -1,0 +1,117 @@
+EventType: OnAppLoad EventDate: 7/28/2020 3:32:37 PM AdditionalInfo:  
+EventType: Click EventDate: 7/28/2020 3:35:33 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/28/2020 3:35:41 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/28/2020 3:36:08 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/28/2020 3:36:10 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/28/2020 3:36:11 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/28/2020 3:36:11 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/28/2020 3:36:11 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/28/2020 3:36:11 PM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:37:52 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 7/28/2020 3:37:52 PM AdditionalInfo: 0.01756117 
+EventType: Intensity EventDate: 7/28/2020 3:37:52 PM AdditionalInfo: 0.1053609 
+EventType: Intensity EventDate: 7/28/2020 3:37:52 PM AdditionalInfo: 0.1931607 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.2107188 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.22828 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.2458396 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.2633992 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.2809604 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.2985185 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.3160797 
+EventType: Intensity EventDate: 7/28/2020 3:37:53 PM AdditionalInfo: 0.3336394 
+EventType: NoActionClick EventDate: 7/28/2020 3:38:52 PM AdditionalInfo: Hint showed: CR1 
+EventType: Rotation EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: 10 
+EventType: Rotation EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: 7 
+EventType: Rotation EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: 4 
+EventType: Rotation EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: 1 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: CR1 
+EventType: Rotation EventDate: 7/28/2020 3:39:28 PM AdditionalInfo: 0 
+EventType: NoActionClick EventDate: 7/28/2020 3:40:28 PM AdditionalInfo: Hint showed: CR2 
+EventType: Rotation EventDate: 7/28/2020 3:41:23 PM AdditionalInfo: 90 
+EventType: Rotation EventDate: 7/28/2020 3:41:23 PM AdditionalInfo: 90 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.3573374 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.4047348 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.4521308 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.5232262 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.5706222 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.6180181 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.6417176 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.6654156 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.6891136 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.712813 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.7365111 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.760209 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.7839069 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.807605 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.8550024 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.8787004 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.9023999 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.9260963 
+EventType: Intensity EventDate: 7/28/2020 3:41:26 PM AdditionalInfo: 0.9497958 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 0.9734938 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.020891 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.044589 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: CR2 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.068287 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.115683 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.139383 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.163081 
+EventType: Intensity EventDate: 7/28/2020 3:41:27 PM AdditionalInfo: 1.186779 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.210477 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.257874 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.281572 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.30527 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.32897 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.352668 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.376366 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.400064 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.423761 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.447461 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.471159 
+EventType: Intensity EventDate: 7/28/2020 3:41:28 PM AdditionalInfo: 1.494857 
+EventType: NoActionClick EventDate: 7/28/2020 3:42:27 PM AdditionalInfo: Hint showed: CR3 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.471159 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.447461 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.423761 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.400064 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.376366 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.352666 
+EventType: Intensity EventDate: 7/28/2020 3:43:16 PM AdditionalInfo: 1.30527 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.234175 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.186779 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.163081 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.115683 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.068287 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: CR3 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 1.044588 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.9971918 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.9734938 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.9497958 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.8787004 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.8313044 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.807605 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.760209 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.7365095 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.712813 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.6891136 
+EventType: Intensity EventDate: 7/28/2020 3:43:17 PM AdditionalInfo: 0.6654156 
+EventType: Intensity EventDate: 7/28/2020 3:43:18 PM AdditionalInfo: 0.6417176 
+EventType: NoActionClick EventDate: 7/28/2020 3:44:17 PM AdditionalInfo: Hint showed: CR4 
+EventType: Rotation EventDate: 7/28/2020 3:45:55 PM AdditionalInfo: 110 
+EventType: Rotation EventDate: 7/28/2020 3:45:55 PM AdditionalInfo: 110 
+EventType: Intensity EventDate: 7/28/2020 3:45:57 PM AdditionalInfo: 0.4 
+EventType: Intensity EventDate: 7/28/2020 3:45:57 PM AdditionalInfo: 0.4 
+EventType: Tension EventDate: 7/28/2020 3:46:00 PM AdditionalInfo: 150 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:46:00 PM AdditionalInfo: CR4 
+EventType: Tension EventDate: 7/28/2020 3:46:00 PM AdditionalInfo: 150 
+EventType: NoActionClick EventDate: 7/28/2020 3:47:00 PM AdditionalInfo: Hint showed: CR5 
+EventType: Rotation EventDate: 7/28/2020 3:48:54 PM AdditionalInfo: 94 
+EventType: Rotation EventDate: 7/28/2020 3:48:54 PM AdditionalInfo: 94 
+EventType: Intensity EventDate: 7/28/2020 3:48:58 PM AdditionalInfo: 0.7 
+EventType: Intensity EventDate: 7/28/2020 3:48:58 PM AdditionalInfo: 0.7 
+EventType: Tension EventDate: 7/28/2020 3:49:00 PM AdditionalInfo: 100 
+EventType: AchivementUnlocked EventDate: 7/28/2020 3:49:00 PM AdditionalInfo: CR5 
+EventType: NoActionClick EventDate: 7/28/2020 3:49:00 PM AdditionalInfo: GameEnd 
+EventType: Tension EventDate: 7/28/2020 3:49:00 PM AdditionalInfo: 100 
+EventType: Click EventDate: 7/28/2020 3:49:04 PM AdditionalInfo: Achivement window: True 
+EventType: Click EventDate: 7/28/2020 3:49:12 PM AdditionalInfo: Achivement window: False 

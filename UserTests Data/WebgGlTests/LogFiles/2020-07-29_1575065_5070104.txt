@@ -1,0 +1,32 @@
+EventType: OnAppLoad EventDate: 7/29/2020 7:20:24 PM AdditionalInfo:  
+EventType: Click EventDate: 7/29/2020 7:20:45 PM AdditionalInfo: Yes Button 
+EventType: Click EventDate: 7/29/2020 7:20:46 PM AdditionalInfo: Next Button 
+EventType: Click EventDate: 7/29/2020 7:20:47 PM AdditionalInfo: Play Button 
+EventType: OnAppLoad EventDate: 7/29/2020 7:20:49 PM AdditionalInfo:  
+EventType: Tension EventDate: 7/29/2020 7:20:50 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/29/2020 7:20:50 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 7/29/2020 7:20:50 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 7/29/2020 7:20:50 PM AdditionalInfo: 13 
+EventType: AchivementUnlocked EventDate: 7/29/2020 7:20:54 PM AdditionalInfo: CR0 
+EventType: Intensity EventDate: 7/29/2020 7:20:54 PM AdditionalInfo: 1.9319 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.002994 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.050391 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.074089 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.097789 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.121487 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.145185 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.168883 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.21628 
+EventType: Intensity EventDate: 7/29/2020 7:20:55 PM AdditionalInfo: 2.239978 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.287374 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.311072 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.358469 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.405867 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.476961 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.500659 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.548056 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.61915 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.690246 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.737643 
+EventType: Intensity EventDate: 7/29/2020 7:20:56 PM AdditionalInfo: 2.785039 
+EventType: Intensity EventDate: 7/29/2020 7:21:01 PM AdditionalInfo: 1.007665 

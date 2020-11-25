@@ -14,12 +14,16 @@ The idea of this project, is to give life to objects that can't be intractable, 
 <pre>
 	
 IST-Thesis-Faraday-Museum
+├─ Artist Work
+│	└─ Contains the work done by the Fine Arts Students
 ├─ Project
 │	└─ Contains the work developed in the context of this thesis
 ├─ State of the Art
 │	└─ Contains the work performed in the thesis project class
-└─ Targets
-	└─ Contains the image and model targets to use with our app
+├─ Targets
+│	└─ Contains the image and model targets to use with our app
+└─ UserTests Data
+	└─ Contains the data collected during the user tests performed
 
 </pre>
 

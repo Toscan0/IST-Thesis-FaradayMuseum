@@ -1,0 +1,6 @@
+EventType: OnAppLoad EventDate: 8/6/2020 10:29:06 PM AdditionalInfo:  
+EventType: OnAppLoad EventDate: 8/6/2020 10:31:03 PM AdditionalInfo:  
+EventType: Tension EventDate: 8/6/2020 10:31:04 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/6/2020 10:31:04 PM AdditionalInfo: 100 
+EventType: Tension EventDate: 8/6/2020 10:31:04 PM AdditionalInfo: 100 
+EventType: Rotation EventDate: 8/6/2020 10:31:04 PM AdditionalInfo: 13 
