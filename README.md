@@ -34,7 +34,7 @@ IST-Thesis-Faraday-Museum
 * Prof. Patríacia Gouveia (Fine Arts Faculty)
 
 ### Developers
-* Tiago Henriques
+* [Tiago Henriques](https://github.com/Toscan0) [Work Documentation](https://github.com/Toscan0/IST-Thesis-FaradayMuseum/blob/main/Project/Technical%20Report.pdf)
 
 ### Artists
 * 3D artist: Marta Mendes (Gower-Bell Telephone, Cathode Ray)
