@@ -56,17 +56,3 @@ MonoBehaviour:
       points: 50
       haveExplanation: 1
       targetID: 0
-    - id: First
-      title: First
-      description: First
-      objective: 1
-      points: 50
-      haveExplanation: 1
-      targetID: 1
-    - id: Second
-      title: Second
-      description: Second
-      objective: 1
-      points: 50
-      haveExplanation: 1
-      targetID: 1
