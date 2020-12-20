@@ -27,6 +27,18 @@ IST-Thesis-Faraday-Museum
 
 </pre>
 
+## Credits
+
+### Advisors
+* Prof. Rui Prada (IST)
+* Prof. Patríacia Gouveia (Fine Arts Faculty)
+
+### Developers
+* Tiago Henriques
+
+### Artists
+* 3D artist: Marta Mendes (Gower-Bell Telephone, Cathode Ray)
+
 ## Contacts
 
 You can reach the team by email us at j.tiago.henriques@tecnico.ulisboa.pt
