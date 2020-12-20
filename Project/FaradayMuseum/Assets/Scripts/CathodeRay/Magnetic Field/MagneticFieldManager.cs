@@ -18,7 +18,7 @@ public class MagneticFieldManager : MonoBehaviour
 
     private void Awake()
     {
-        ManageInput.OnIntesityChanged += UpdateIntensity;
+        IntensityUI.OnIntensityChanged += UpdateIntensity;
         ShowARButton.OnARButtonClicked += UpdateARToShow;
 
         gameObject.SetActive(false);
@@ -76,7 +76,7 @@ public class MagneticFieldManager : MonoBehaviour
 
     private void OnDestroy()
     {
-        ManageInput.OnIntesityChanged -= UpdateIntensity;
+        IntensityUI.OnIntensityChanged -= UpdateIntensity;
         ShowARButton.OnARButtonClicked -= UpdateARToShow;
 
     }

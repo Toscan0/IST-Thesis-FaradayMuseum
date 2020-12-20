@@ -4,7 +4,7 @@ using UnityEngine;
 
 using Malee;
 
-[CreateAssetMenu()]
+[CreateAssetMenu(fileName = "Achievements Database", menuName = "Databases/Achievements Database")]
 public class AchievementDatabase : ScriptableObject
 {
     [Reorderable (sortable = false, paginate = false)]

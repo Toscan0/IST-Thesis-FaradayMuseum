@@ -22,10 +22,10 @@ public class Blinking : MonoBehaviour
 
     private void OnEnable()
     {
-        ManageInput.OnTensionChanged += TensionChanged;
+        TensionUI.OnTensionChanged += TensionChanged;
     }
 
-    private void TensionChanged()
+    private void TensionChanged(float newTension)
     {
         if (!firstTime)
         {
@@ -57,6 +57,6 @@ public class Blinking : MonoBehaviour
 
     private void OnDisable()
     {
-        ManageInput.OnTensionChanged -= TensionChanged;
+        TensionUI.OnTensionChanged -= TensionChanged;
     }
 }

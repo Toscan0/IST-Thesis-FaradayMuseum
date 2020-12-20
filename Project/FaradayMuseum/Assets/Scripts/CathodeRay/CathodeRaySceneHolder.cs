@@ -28,7 +28,7 @@ public class CathodeRaySceneHolder : MonoBehaviour
 
     private void Awake()
     {
-        ManageInput.OnIntesityChanged += IntesityChanged;
+        IntensityUI.OnIntensityChanged += IntesityChanged;
         CheckAchievements.OnAchivementCompleted += UpdateSceneHolder;
     }
 
@@ -113,7 +113,7 @@ public class CathodeRaySceneHolder : MonoBehaviour
 
     private void OnDestroy()
     {
-        ManageInput.OnIntesityChanged -= IntesityChanged;
+        IntensityUI.OnIntensityChanged -= IntesityChanged;
         CheckAchievements.OnAchivementCompleted -= UpdateSceneHolder;
     }
 }

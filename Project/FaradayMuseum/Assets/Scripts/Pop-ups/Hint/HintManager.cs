@@ -37,7 +37,7 @@ public class HintManager : MonoBehaviour
         {
             // Select an locked achivement to show the hint
             List<string> lockedAchievementsIDByArtifactID =
-                achievementManager.GetLockedAchievementsIDByArtifactID("CR");
+                achievementManager.GetLockedAchievementsIDByArtifactID(TargetIDs.CR.ToString());
             string[] aux = lockedAchievementsIDByArtifactID.ToArray();
 
             if (aux.Length > 0)

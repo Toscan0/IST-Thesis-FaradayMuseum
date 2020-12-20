@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8948b9d00a94b929cc2e8725cf6fa1, type: 3}
+  m_Name: Achievements Database
+  m_EditorClassIdentifier: 
+  achievements:
+    array:
+    - id: CR0
+      title: "Criar um campo magn\xE9tico"
+      description: Ligar a intensidade nas bobinas
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: CR1
+      title: Fazer uma linha
+      description: Fazer uma linha rodando a ampola
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: CR2
+      title: "Fa\xE7a um c\xEDrculo 1"
+      description: "Fazer um c\xEDrculo"
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: CR3
+      title: "Fa\xE7a um c\xEDrculo 2"
+      description: "Fazer outro c\xEDrculo"
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: CR4
+      title: Fazer uma espiral 1
+      description: Fazer uma espiral rodando a ampola
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: CR5
+      title: Fazer uma espiral
+      description: Fazer uma espiral rodando a ampola
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 0
+    - id: First
+      title: First
+      description: First
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 1
+    - id: Second
+      title: Second
+      description: Second
+      objective: 1
+      points: 50
+      haveExplanation: 1
+      targetID: 1

@@ -52,7 +52,7 @@ public class AchievementItemController : MonoBehaviour
 
     public string GetArtifactID()
     {
-        return achievement.artifactID;
+        return (achievement.targetID).ToString();
     }
 
     public bool GetHaveExplanation()

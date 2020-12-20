@@ -14,7 +14,7 @@ public class CoilsManager : MonoBehaviour
 
     private void Awake()
     {
-        ManageInput.OnIntesityChanged += UpdateSize;
+        IntensityUI.OnIntensityChanged += UpdateSize;
         ShowARButton.OnARButtonClicked += UpdateARToShow;
     }
 
@@ -53,7 +53,7 @@ public class CoilsManager : MonoBehaviour
 
     private void OnDestroy()
     {
-        ManageInput.OnIntesityChanged -= UpdateSize;
+        IntensityUI.OnIntensityChanged -= UpdateSize;
         ShowARButton.OnARButtonClicked -= UpdateARToShow;
     }
 }
