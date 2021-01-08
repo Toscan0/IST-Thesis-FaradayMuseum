@@ -22,6 +22,8 @@ IST-Thesis-Faraday-Museum
 │	└─ Contains the work performed in the thesis project class
 ├─ Targets
 │	└─ Contains the image and model targets to use with our app
+├─ Thesis
+│	└─ Thesis documents and presentation
 └─ User Tests Data
 	└─ Contains the data collected during the user tests performed
 
