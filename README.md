@@ -44,8 +44,3 @@ IST-Thesis-Faraday-Museum
 ## Contacts
 
 You can reach the team by email us at j.tiago.henriques@tecnico.ulisboa.pt
-
-
-CR-MT-FM: https://youtu.be/W8nbFDtOTLg
-
-CR-MT-FM-UT: https://youtu.be/jrUf_wBCiMk
