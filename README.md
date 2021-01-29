@@ -31,8 +31,9 @@ IST-Thesis-Faraday-Museum
 
 ## Preview
 
-[Cathode Ray-Model Target-Faraday Museum-UserTest](https://youtu.be/jrUf_wBCiMk)
-[Cathode Ray-Model Target-Faraday Museum](https://youtu.be/W8nbFDtOTLg)
+[Video: Cathode Ray-Model Target-Faraday Museum-UserTest](https://youtu.be/jrUf_wBCiMk)
+
+[Video: Cathode Ray-Model Target-Faraday Museum](https://youtu.be/W8nbFDtOTLg)
 
 ## Credits
 
