@@ -45,7 +45,7 @@ IST-Thesis-Faraday-Museum
 * [Tiago Henriques](https://github.com/Toscan0) ([Work Documentation](https://github.com/Toscan0/IST-Thesis-FaradayMuseum/blob/main/Project/Technical%20Report.pdf))
 
 ### Artists
-* 3D artist: Marta Mendes (Gower-Bell Telephone, Cathode Ray)
+* 3D artist: Marta Mendes
 
 ## Contacts
 
